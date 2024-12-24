@@ -1,6 +1,6 @@
 # Code-for-HomoCAGC-master
 
-***The source code of HomoCAGC is used for AAAI2024 submission.***
+***The source code of HomoCAGC is used for submission.***
 
 There are some tips about this code in the following,
 
